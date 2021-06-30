@@ -1,0 +1,97 @@
+[2021-06-30 20:30:05.965] Load module FxGui.dll at address 0x10200000
+[2021-06-30 20:30:06.095] Load module FxTool.dll at address 0x10E00000
+[2021-06-30 20:30:06.186] Load module FxRender.dll at address 0x10800000
+[2021-06-30 20:30:06.280] Load module FxPackage.dll at address 0x10700000
+[2021-06-30 20:30:06.469] (CEntManager::AddCreator)entity name repeat
+[2021-06-30 20:30:06.469] FxUpdateEx
+[2021-06-30 20:30:06.469] IniDocument
+[2021-06-30 20:30:06.470] Load module FxUpdateEx.dll at address 0x026F0000
+[2021-06-30 20:30:06.657] Load module FxWorld at address 0x10F00000
+[2021-06-30 20:30:06.657] enable low fragmentation heap
+[2021-06-30 20:30:06.673] (PackFileSys::LoadConfig)max origin size 9720284 compressed size 4987194
+[2021-06-30 20:30:07.196] (CDesignLoader::LoadResource)open file failed
+[2021-06-30 20:30:07.196] skin\resource_English.xml
+[2021-06-30 20:30:07.453] (CDesignLoader::LoadResource)open file failed
+[2021-06-30 20:30:07.454] skin\resource_English.xml
+[2021-06-30 20:30:07.454] (CDesignLoader::LoadDesktop)load resource failed
+[2021-06-30 20:30:07.454] D:\CuuAmChanKinh2-Full.2020\CuuAmChanKinh2-Full.2020\updater_\updater_res\skin\resource_English.xml
+[2021-06-30 20:30:07.553] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.553] TitleBar
+[2021-06-30 20:30:07.553] skin\form_main.xml
+[2021-06-30 20:30:07.554] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.554] TitleBar
+[2021-06-30 20:30:07.554] skin\form_main.xml
+[2021-06-30 20:30:07.849] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.849] TitleBar
+[2021-06-30 20:30:07.850] skin\form_main.xml
+[2021-06-30 20:30:07.868] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.868] TitleBar
+[2021-06-30 20:30:07.868] skin\form_main.xml
+[2021-06-30 20:30:07.868] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.868] TitleBar
+[2021-06-30 20:30:07.869] skin\form_main.xml
+[2021-06-30 20:30:07.880] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.880] TitleBar
+[2021-06-30 20:30:07.880] skin\form_main.xml
+[2021-06-30 20:30:07.880] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.880] TitleBar
+[2021-06-30 20:30:07.880] skin\form_main.xml
+[2021-06-30 20:30:07.889] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.889] TitleBar
+[2021-06-30 20:30:07.889] skin\form_main.xml
+[2021-06-30 20:30:07.901] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.902] TitleBar
+[2021-06-30 20:30:07.902] skin\form_main.xml
+[2021-06-30 20:30:07.905] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.905] TitleBar
+[2021-06-30 20:30:07.905] skin\form_main.xml
+[2021-06-30 20:30:07.913] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.914] TitleBar
+[2021-06-30 20:30:07.914] skin\form_main.xml
+[2021-06-30 20:30:07.955] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.955] TitleBar
+[2021-06-30 20:30:07.956] skin\form_main.xml
+[2021-06-30 20:30:07.997] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:07.997] TitleBar
+[2021-06-30 20:30:07.997] skin\form_main.xml
+[2021-06-30 20:30:08.064] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:08.064] TitleBar
+[2021-06-30 20:30:08.064] skin\form_main.xml
+[2021-06-30 20:30:08.220] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:08.221] TitleBar
+[2021-06-30 20:30:08.221] skin\form_main.xml
+[2021-06-30 20:30:08.222] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:08.222] TitleBar
+[2021-06-30 20:30:08.223] skin\form_main.xml
+[2021-06-30 20:30:08.375] (CDesignLoader::LoadXmlSubor)property not found
+[2021-06-30 20:30:08.375] TitleBar
+[2021-06-30 20:30:08.375] skin\form_main.xml
+[2021-06-30 20:30:08.777] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.777] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.788] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.843] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.843] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.847] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.870] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.870] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:08.876] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.642] get_server_status<text_sock is getting info>
+[2021-06-30 20:30:09.694] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.695] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.695] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.695] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.709] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.710] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.710] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.710] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.961] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.961] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.962] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:09.962] WebView::MyDispatch_Invoke
+[2021-06-30 20:30:11.019] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.021] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.023] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.025] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.042] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.043] WebView::MyDispatch_GetIDsOfNames
+[2021-06-30 20:30:11.044] WebView::MyDispatch_GetIDsOfNames
